@@ -1,5 +1,6 @@
 # fast-api-curd-operation
 FastApi python CURD operation with mysql
+
 # Create an env
     conda create -p venv python==3.7
 # Installation
