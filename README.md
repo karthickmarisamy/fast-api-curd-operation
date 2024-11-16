@@ -15,3 +15,5 @@ FastApi python CURD operation with mysql
 ## Using requirements.txt
 
     pip install -r requirements.txt
+## Run the application
+    uvicorn main:app --reload
